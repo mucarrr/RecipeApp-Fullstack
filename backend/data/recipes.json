@@ -1,0 +1,231 @@
+[
+  {
+    "id": 1,
+    "recipeName": "Spaghetti Carbonara",
+    "category": "Italian",
+    "ingredients": [
+      "400g spaghetti",
+      "200g pancetta or guanciale",
+      "4 large eggs",
+      "100g Pecorino Romano cheese",
+      "100g Parmigiano Reggiano",
+      "Black pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to boil and cook spaghetti according to package directions",
+      "While pasta cooks, cut pancetta into small cubes and cook in a large skillet until crispy",
+      "In a bowl, whisk together eggs, grated cheeses, and black pepper",
+      "Drain pasta, reserving 1 cup of pasta water",
+      "Add hot pasta to the skillet with pancetta",
+      "Remove from heat and quickly stir in egg mixture, adding pasta water as needed",
+      "Serve immediately with extra cheese and black pepper"
+    ],
+    "recipeTime": "25 minutes",
+    "servingSuggestions": "Serve with a crisp green salad and a glass of white wine",
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=500"
+  },
+  {
+    "id": 2,
+    "recipeName": "Chicken Tikka Masala",
+    "category": "Indian",
+    "ingredients": [
+      "800g chicken breast, cubed",
+      "2 cups yogurt",
+      "2 tbsp garam masala",
+      "2 tbsp turmeric",
+      "1 onion, diced",
+      "3 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "400ml coconut milk",
+      "400g canned tomatoes",
+      "Fresh cilantro",
+      "Basmati rice"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt, garam masala, and turmeric for 2 hours",
+      "Cook marinated chicken in a hot pan until browned",
+      "In the same pan, sauté onions, garlic, and ginger",
+      "Add tomatoes and cook until softened",
+      "Add coconut milk and bring to simmer",
+      "Return chicken to pan and cook for 15-20 minutes",
+      "Garnish with fresh cilantro and serve with basmati rice"
+    ],
+    "recipeTime": "45 minutes",
+    "servingSuggestions": "Serve with naan bread, cucumber raita, and mango chutney",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500"
+  },
+  {
+    "id": 3,
+    "recipeName": "Caesar Salad",
+    "category": "Salad",
+    "ingredients": [
+      "2 heads romaine lettuce",
+      "1/2 cup croutons",
+      "1/4 cup Parmesan cheese",
+      "2 anchovy fillets",
+      "1 clove garlic",
+      "1 egg yolk",
+      "1 tbsp Dijon mustard",
+      "2 tbsp lemon juice",
+      "1/4 cup olive oil",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Wash and chop romaine lettuce into bite-sized pieces",
+      "Make dressing by whisking together anchovy, garlic, egg yolk, mustard, and lemon juice",
+      "Slowly drizzle in olive oil while whisking",
+      "Toss lettuce with dressing",
+      "Top with croutons and shaved Parmesan",
+      "Season with black pepper and serve immediately"
+    ],
+    "recipeTime": "15 minutes",
+    "servingSuggestions": "Serve as a starter or light lunch with grilled chicken",
+    "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=500"
+  },
+  {
+    "id": 4,
+    "recipeName": "Chocolate Chip Cookies",
+    "category": "Dessert",
+    "ingredients": [
+      "2 1/4 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1 tsp salt",
+      "1 cup butter, softened",
+      "3/4 cup granulated sugar",
+      "3/4 cup brown sugar",
+      "2 large eggs",
+      "2 tsp vanilla extract",
+      "2 cups chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C)",
+      "Mix flour, baking soda, and salt in a bowl",
+      "Cream butter and sugars until light and fluffy",
+      "Beat in eggs and vanilla",
+      "Gradually mix in flour mixture",
+      "Stir in chocolate chips",
+      "Drop rounded tablespoons onto ungreased baking sheets",
+      "Bake for 9-11 minutes until golden brown",
+      "Cool on baking sheets for 2 minutes, then transfer to wire racks"
+    ],
+    "recipeTime": "30 minutes",
+    "servingSuggestions": "Serve warm with a glass of cold milk",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=500"
+  },
+  {
+    "id": 5,
+    "recipeName": "Beef Tacos",
+    "category": "Mexican",
+    "ingredients": [
+      "500g ground beef",
+      "1 packet taco seasoning",
+      "12 taco shells",
+      "1 head lettuce, shredded",
+      "2 tomatoes, diced",
+      "1 onion, diced",
+      "1 cup shredded cheese",
+      "Sour cream",
+      "Salsa",
+      "Lime wedges"
+    ],
+    "instructions": [
+      "Brown ground beef in a large skillet over medium heat",
+      "Drain excess fat and add taco seasoning with water as directed",
+      "Simmer for 5 minutes until thickened",
+      "Warm taco shells in oven according to package directions",
+      "Fill shells with beef mixture",
+      "Top with lettuce, tomatoes, onion, cheese, sour cream, and salsa",
+      "Serve with lime wedges"
+    ],
+    "recipeTime": "20 minutes",
+    "servingSuggestions": "Serve with Mexican rice and refried beans",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=500"
+  },
+  {
+    "id": 6,
+    "recipeName": "Greek Moussaka",
+    "category": "Mediterranean",
+    "ingredients": [
+      "3 large eggplants",
+      "500g ground lamb",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "400g canned tomatoes",
+      "1 tsp cinnamon",
+      "1 tsp oregano",
+      "4 tbsp butter",
+      "4 tbsp flour",
+      "2 cups milk",
+      "2 eggs",
+      "1/2 cup breadcrumbs"
+    ],
+    "instructions": [
+      "Slice eggplants and grill until tender",
+      "Brown lamb with onion and garlic",
+      "Add tomatoes, cinnamon, and oregano, simmer for 20 minutes",
+      "Make béchamel sauce: melt butter, add flour, gradually add milk",
+      "Layer eggplant, meat mixture, and béchamel in baking dish",
+      "Top with breadcrumbs and bake at 350°F for 45 minutes"
+    ],
+    "recipeTime": "90 minutes",
+    "servingSuggestions": "Serve with Greek salad and tzatziki sauce",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500"
+  },
+  {
+    "id": 7,
+    "recipeName": "Thai Green Curry",
+    "category": "Thai",
+    "ingredients": [
+      "400ml coconut milk",
+      "2 tbsp green curry paste",
+      "500g chicken breast, sliced",
+      "2 cups mixed vegetables",
+      "2 tbsp fish sauce",
+      "1 tbsp palm sugar",
+      "Thai basil leaves",
+      "Jasmine rice"
+    ],
+    "instructions": [
+      "Heat coconut milk in a wok until it starts to separate",
+      "Add curry paste and fry for 2 minutes",
+      "Add chicken and cook until no longer pink",
+      "Add vegetables and cook for 5 minutes",
+      "Season with fish sauce and palm sugar",
+      "Garnish with Thai basil and serve with jasmine rice"
+    ],
+    "recipeTime": "35 minutes",
+    "servingSuggestions": "Serve with fresh lime wedges and extra fish sauce on the side",
+    "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=500"
+  },
+  {
+    "id": 8,
+    "recipeName": "French Onion Soup",
+    "category": "French",
+    "ingredients": [
+      "6 large onions, thinly sliced",
+      "4 tbsp butter",
+      "2 tbsp olive oil",
+      "1 tsp sugar",
+      "1/4 cup flour",
+      "8 cups beef broth",
+      "1/2 cup white wine",
+      "1 baguette, sliced",
+      "1 cup Gruyère cheese, grated",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Melt butter and oil in a large pot",
+      "Add onions and sugar, cook slowly for 45 minutes until caramelized",
+      "Add flour and cook for 1 minute",
+      "Add wine and broth, bring to boil",
+      "Simmer for 30 minutes",
+      "Toast baguette slices",
+      "Ladle soup into bowls, top with bread and cheese",
+      "Broil until cheese is melted and bubbly"
+    ],
+    "recipeTime": "90 minutes",
+    "servingSuggestions": "Serve with a crisp green salad and crusty bread",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=500"
+  }
+]
