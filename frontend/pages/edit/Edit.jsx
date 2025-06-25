@@ -1,8 +1,9 @@
 import React from 'react'
+import Form from '../../components/Form'
 
 const Update = () => {
   return (
-    <div>Update</div>
+    <Form mode="edit" />
   )
 }
 

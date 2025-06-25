@@ -82,7 +82,7 @@ export const getRecipeById = (req, res) => {
 }
 export const updateRecipe = (req, res) => {
   try{
-    const recipeIndex = req.recipes.findIndex(recipe => String(recipe.id) === req.recipe.id);
+    const recipeIndex = req.recipes.findIndex(recipe => String(recipe.id) === String(req.recipe.id));
     const updatedRecipe = { ...req.recipe, ...req.body };
     req.recipes[recipeIndex] = updatedRecipe;
     writeRecipes(req.recipes);

@@ -227,5 +227,142 @@
     "recipeTime": "90 minutes",
     "servingSuggestions": "Serve with a crisp green salad and crusty bread",
     "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=500"
+  },
+  {
+    "id": 9,
+    "recipeName": "Sushi Roll",
+    "category": "Japanese",
+    "ingredients": [
+      "2 cups sushi rice",
+      "4 sheets nori",
+      "200g fresh salmon, sliced",
+      "1 cucumber, julienned",
+      "1 avocado, sliced",
+      "2 tbsp rice vinegar",
+      "1 tbsp sugar",
+      "1 tsp salt",
+      "Wasabi",
+      "Soy sauce",
+      "Pickled ginger"
+    ],
+    "instructions": [
+      "Cook sushi rice and season with rice vinegar, sugar, and salt",
+      "Place nori sheet on bamboo mat",
+      "Spread rice evenly on nori, leaving 1 inch at top",
+      "Place salmon, cucumber, and avocado in center",
+      "Roll tightly using bamboo mat",
+      "Cut into 8 pieces with sharp knife",
+      "Serve with wasabi, soy sauce, and pickled ginger"
+    ],
+    "recipeTime": "40 minutes",
+    "servingSuggestions": "Serve with miso soup and green tea",
+    "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=500"
+  },
+  {
+    "id": 10,
+    "recipeName": "Bibimbap",
+    "category": "Korean",
+    "ingredients": [
+      "2 cups cooked rice",
+      "200g beef, thinly sliced",
+      "1 carrot, julienned",
+      "1 zucchini, julienned",
+      "1 cup bean sprouts",
+      "2 eggs",
+      "2 tbsp gochujang",
+      "1 tbsp sesame oil",
+      "1 tbsp soy sauce",
+      "1 tsp sugar",
+      "Sesame seeds"
+    ],
+    "instructions": [
+      "Marinate beef with soy sauce, sugar, and sesame oil",
+      "Cook beef in a hot pan until browned",
+      "Sauté vegetables separately until tender",
+      "Fry eggs sunny-side up",
+      "Arrange rice in bowls",
+      "Top with beef, vegetables, and egg",
+      "Add gochujang and sesame seeds",
+      "Mix well before eating"
+    ],
+    "recipeTime": "35 minutes",
+    "servingSuggestions": "Serve with kimchi and Korean side dishes",
+    "image": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?w=500"
+  },
+  {
+    "id": 11,
+    "recipeName": "Iskender Kebab",
+    "category": "Turkish",
+    "ingredients": [
+      "500g lamb, thinly sliced",
+      "4 pita breads",
+      "2 tbsp tomato paste",
+      "2 tbsp butter",
+      "1 cup yogurt",
+      "1 tbsp paprika",
+      "1 tsp oregano",
+      "1 onion, sliced",
+      "2 tomatoes, sliced",
+      "Olive oil",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Season lamb with paprika, oregano, salt, and pepper",
+      "Cook lamb in hot pan until browned",
+      "Warm pita breads in oven",
+      "Melt butter and add tomato paste",
+      "Arrange pita on plates",
+      "Top with lamb and tomato sauce",
+      "Garnish with yogurt, onions, and tomatoes",
+      "Drizzle with olive oil and serve"
+    ],
+    "recipeTime": "30 minutes",
+    "servingSuggestions": "Serve with Turkish tea and baklava",
+    "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=500"
+  },
+  {
+    "id": 12,
+    "recipeName": "Classic Burger",
+    "category": "American",
+    "ingredients": [
+      "500g ground beef",
+      "4 burger buns",
+      "4 slices cheddar cheese",
+      "1 onion, sliced",
+      "1 tomato, sliced",
+      "Lettuce leaves",
+      "4 tbsp mayonnaise",
+      "2 tbsp ketchup",
+      "2 tbsp mustard",
+      "Salt and pepper",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Form beef into 4 patties, season with salt and pepper",
+      "Heat grill or pan over high heat",
+      "Cook patties 4-5 minutes per side",
+      "Add cheese in last minute of cooking",
+      "Toast burger buns",
+      "Spread mayonnaise, ketchup, and mustard on buns",
+      "Assemble burgers with lettuce, tomato, and onion",
+      "Serve hot with fries"
+    ],
+    "recipeTime": "25 minutes",
+    "servingSuggestions": "Serve with crispy french fries and a cold beer",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500"
+  },
+  {
+    "id": "857dfe13-da41-4ec3-960a-b483cd6bbf00",
+    "recipeName": "s`azghjkl;",
+    "category": "Italian",
+    "ingredients": [
+      "3wed"
+    ],
+    "instructions": [
+      "eaws"
+    ],
+    "recipeTime": "44",
+    "servingSuggestions": "fa",
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=500"
   }
 ]
